@@ -4,7 +4,7 @@ function loadHtml(data) {
         var link = document.createTextNode(`Checkout ${datum}`);
         let anchor = document.createElement('a');
         anchor.appendChild(link); 
-        anchor.href=`./${datum}`;
+        anchor.href=`./${datum}/index.html`;
         let el = document.createElement('div');
         el.className="apps";
         el.appendChild(anchor);
