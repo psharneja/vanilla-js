@@ -6,7 +6,7 @@ some timepass mini vanillajs projects
 | :-: | :----------------------------: | :-------: |
 | 01  |       [Form Validator](https://github.com/psharneja/vanilla-js/master/form-validator)       | [Live Demo](https://psharneja.github.io/vanilla-js/form-validator/)  |
 | 02  |     [Movie Seat Booking](https://github.com/psharneja/vanilla-js/master/movie-seat)    | [Live Demo](https://psharneja.github.io/vanilla-js/movie-seat/)  |
-| 03  |    [Custom Video Player](https://github.com/psharneja/vanilla-js/master/custom-video-player)     | [Live Demo](https://psharneja.github.io/vanilla-js/custom-video-player/)  |
+| 03  |    [Custom Video Player](https://github.com/psharneja/vanilla-js/master/video-player)     | [Live Demo](https://psharneja.github.io/vanilla-js/video-player/)  |
 | 04  |  [Exchange Rate Calculator](https://github.com/psharneja/vanilla-js/master/exchange-rate)  | [Live Demo](https://psharneja.github.io/vanilla-js/exchange-rate/)  |
 | 05  | [DOM Array Methods Project](https://github.com/psharneja/vanilla-js/master/dom-array-methods)  | [Live Demo](https://psharneja.github.io/vanilla-js/dom-array-methods/)  |
 | 06  |    [Menu Slider & Modal](https://github.com/psharneja/vanilla-js/master/modal-menu-slider)    | [Live Demo](https://psharneja.github.io/vanilla-js/modal-menu-slider/)  |
