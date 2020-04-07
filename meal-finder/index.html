@@ -3,12 +3,27 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous" />
     <link rel="stylesheet" href="style.css" />
     <title>Mealfinder!</title>
   </head>
   <body>
 <div id="container" class="container">
-    
+  <h1>Meal Finder</h1>
+    <div class="flex">
+      <form id="submit" class="flex">
+        <input type="text" id="search" placeholder="Search for meals or keywords">
+        <button class="search-btn" type="submit">
+          <i class="fa fa-search"></i>
+        </button>
+      </form>
+      <button class="random-btn" id="random">
+        <i class="fa fa-random"></i>
+      </button>
+    </div>
+    <div id="result-heading" class="result-heading"></div>
+    <div class="meals" id="meals"></div>
+    <div id="single-meal"></div>
 </div>
 
 <script src="script.js"></script>
