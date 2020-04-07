@@ -14,7 +14,7 @@ some timepass mini vanillajs projects
 | 08  |       [Mealfinder App](https://github.com/psharneja/vanilla-js/master/meal-finder)      | [Live Demo](https://psharneja.github.io/vanilla-js/meal-finder/index.html)  |
 | 09  |      [Expense Tracker](https://github.com/psharneja/vanilla-js/master/expense-tracker)       | [Live Demo](https://psharneja.github.io/vanilla-js/expense-tracker/index.html)  |
 | 10  |        [Music Player](https://github.com/psharneja/vanilla-js/master/music-player)       | [Live Demo](https://psharneja.github.io/vanilla-js/music-player/index.html)  |
-| 11  |     [Infinite Scrolling](https://github.com/psharneja/vanilla-js/master/infinite_scroll_blog)     | [Live Demo](https://psharneja.github.io/vanilla-js/infinite_scroll_blog/index.html)  |
+| 11  |     [Infinite Scrolling](https://github.com/psharneja/vanilla-js/master/infinite-scroll-blog)     | [Live Demo](https://psharneja.github.io/vanilla-js/infinite-scroll-blog/index.html)  |
 | 12  |        [Typing Game](https://github.com/psharneja/vanilla-js/master/typing-game)     | [Live Demo](https://psharneja.github.io/vanilla-js/typing-gameindex.html)  |
 | 13  |     [Speech Text Reader](https://github.com/psharneja/vanilla-js/master/speech-text-reader)    | [Live Demo](https://psharneja.github.io/vanilla-js/speech-text-reader/index.html)  |
 | 14  |        [Memory Cards](https://github.com/psharneja/vanilla-js/master/memory-cards)     | [Live Demo](https://psharneja.github.io/vanilla-js/memory-cards/index.html)  |
