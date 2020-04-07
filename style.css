@@ -22,6 +22,7 @@ body {
     width: 70vw;
     height:100vh;
     overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .container .apps {
