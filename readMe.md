@@ -4,6 +4,7 @@ some timepass mini vanillajs projects
 
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
+| 01.01  |       [Canvas Tennis](https://github.com/psharneja/vanilla-js/master/tennis)       | [Live Demo](https://psharneja.github.io/vanilla-js/tennis/index.html)  |
 | 01.02  |       [Website Countdown](https://github.com/psharneja/vanilla-js/master/countdown)       | [Live Demo](https://psharneja.github.io/vanilla-js/countdown/index.html)  |
 | 01.03  |       [Form Validator](https://github.com/psharneja/vanilla-js/master/form-validator)       | [Live Demo](https://psharneja.github.io/vanilla-js/form-validator/index.html)  |
 | 02  |     [Movie Seat Booking](https://github.com/psharneja/vanilla-js/master/movie-seat)    | [Live Demo](https://psharneja.github.io/vanilla-js/movie-seat/index.html)  |
