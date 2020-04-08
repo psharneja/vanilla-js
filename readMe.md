@@ -19,7 +19,7 @@ some timepass mini vanillajs projects
 | 13  |     [Speech Text Reader](https://github.com/psharneja/vanilla-js/master/speech-text-reader)    | [Live Demo](https://psharneja.github.io/vanilla-js/speech-text-reader/index.html)  |
 | 14  |        [Memory Cards](https://github.com/psharneja/vanilla-js/master/memory-cards)     | [Live Demo](https://psharneja.github.io/vanilla-js/memory-cards/index.html)  |
 | 15  |      [LyricsSearch App](https://github.com/psharneja/vanilla-js/master/lyrics-search)     | [Live Demo](https://psharneja.github.io/vanilla-js/lyrics-search/index.html)  |
-| 16  |        [Relaxer App](https://github.com/psharneja/vanilla-js/master/relaxer-app)       | [Live Demo](https://psharneja.github.io/vanilla-js//relaxer-app/index.html)  |
+| 16  |        [Relaxer App](https://github.com/psharneja/vanilla-js/master/relaxer-app)       | [Live Demo](https://psharneja.github.io/vanilla-js/relaxer-app/index.html)  |
 | 17  |       [Breakout Game](https://github.com/psharneja/vanilla-js/master/breakout-game)       | [Live Demo](https://psharneja.github.io/vanilla-js/breakout-game/index.html)  |
 | 18  |     [New Year Countdown](https://github.com/psharneja/vanilla-js/master/new-year-countdown)   | [Live Demo](https://psharneja.github.io/vanilla-js/new-year-countdown/index.html)  |
 | 19  |       [Sortable List](https://github.com/psharneja/vanilla-js/master/sortable-list)       | [Live Demo](https://psharneja.github.io/vanilla-js/sortable-list/index.html)  |
