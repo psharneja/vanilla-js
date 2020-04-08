@@ -4,7 +4,8 @@ some timepass mini vanillajs projects
 
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
-| 01  |       [Form Validator](https://github.com/psharneja/vanilla-js/master/form-validator)       | [Live Demo](https://psharneja.github.io/vanilla-js/form-validator/index.html)  |
+| 01.02  |       [Website Countdown](https://github.com/psharneja/vanilla-js/master/countdown)       | [Live Demo](https://psharneja.github.io/vanilla-js/countdown/index.html)  |
+| 01.03  |       [Form Validator](https://github.com/psharneja/vanilla-js/master/form-validator)       | [Live Demo](https://psharneja.github.io/vanilla-js/form-validator/index.html)  |
 | 02  |     [Movie Seat Booking](https://github.com/psharneja/vanilla-js/master/movie-seat)    | [Live Demo](https://psharneja.github.io/vanilla-js/movie-seat/index.html)  |
 | 03  |    [Custom Video Player](https://github.com/psharneja/vanilla-js/master/video-player)     | [Live Demo](https://psharneja.github.io/vanilla-js/video-player/index.html)  |
 | 04  |  [Exchange Rate Calculator](https://github.com/psharneja/vanilla-js/master/exchange-rate)  | [Live Demo](https://psharneja.github.io/vanilla-js/exchange-rate/index.html)  |
