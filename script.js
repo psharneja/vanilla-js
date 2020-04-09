@@ -1,7 +1,7 @@
 const container = document.getElementById('container');
 function loadHtml(data) {
     data.forEach((datum) => {
-        var link = document.createTextNode(`Checkout ${datum}`);
+        var link = document.createTextNode(`${datum}`);
         let anchor = document.createElement('a');
         anchor.appendChild(link); 
         anchor.href=`./${datum}/index.html`;
