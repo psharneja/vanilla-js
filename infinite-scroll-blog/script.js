@@ -7,7 +7,7 @@ let page = 1;
 
 async function getPosts() {
   const res = await fetch(
-    `http://jsonplaceholder.typicode.com/posts?_limit=${limit}&_page=${page}`
+    `https://cors-anywhere.herokuapp.com/http://jsonplaceholder.typicode.com/posts?_limit=${limit}&_page=${page}`
   );
   const data = await res.json();
   return data;
